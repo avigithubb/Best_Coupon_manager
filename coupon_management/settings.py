@@ -40,7 +40,7 @@ INSTALLED_APPS = [
     'coupons',
     'rest_framework',
     'rest_framework.authtoken',
-    'coupons.apps.CouponsConfig'
+    'coupons.apps.CouponsConfig',
 ]
 
 MIDDLEWARE = [
